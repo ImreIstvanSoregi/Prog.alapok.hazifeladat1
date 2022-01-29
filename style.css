@@ -1,0 +1,18 @@
+td {
+    background-color: white;
+    width: 75px;
+    height: 75px;
+}
+
+th {
+    background-color: black;
+    width: 75px;
+    height: 75px;
+}
+
+
+.oldal {
+    height: 630px;
+    width: 625px;
+    border: solid rgb(121, 35, 35)
+}
